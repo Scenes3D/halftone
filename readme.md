@@ -1,3 +1,5 @@
+![Preview](img/preview.jpg)
+
 # Three.js TSL
 
 ## Setup
